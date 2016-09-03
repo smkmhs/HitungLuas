@@ -1,8 +1,0 @@
-resep nasi goreng
-
-bahan-bahan
-* nasi
-* bawang merah
-* minyak
-* kecap
-* cabe
